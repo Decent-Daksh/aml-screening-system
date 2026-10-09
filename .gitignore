@@ -1,0 +1,3 @@
+aml_database.db
+*.log
+__pycache__/
